@@ -1,5 +1,6 @@
 // Opdracht 1: Destructure price en refreshRate uit onderstaand object, en log ze daarna in de terminal
 
+
 const product = {
   price: 379,
   refreshRate: 50,
